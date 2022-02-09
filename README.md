@@ -1,4 +1,4 @@
 # todo-project
 
 
-![image](assets/"ToDo wireframe.PNG")
+![image](assets/ToDo_wireframe.PNG)
